@@ -17,5 +17,8 @@ fun main(args: Array<String>) {
     var wallet = 70
     println(wallet)
 
+    // Math
+    println(50 + 4)
+
 
 }
