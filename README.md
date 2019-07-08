@@ -2,3 +2,5 @@
 
 * Basics
     * src/*
+* The Resume
+    * [UdemyResume](https://github.com/JieqiongYu/Kotlin/tree/master/UdemyResume)
